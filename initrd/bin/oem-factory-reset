@@ -117,7 +117,6 @@ gpg_key_reset()
         echo ${ADMIN_PIN_DEF}
         echo ${USER_PIN_DEF}
         echo 0
-        echo y
         echo ${GPG_USER_NAME} 
         echo ${GPG_USER_MAIL}
         echo ${GPG_USER_COMMENT}
